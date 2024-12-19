@@ -1,0 +1,11 @@
+# to check if a given is in a list or not
+lst = [10, 20, -44, 55, 0, 33]
+
+n = int(input('which number to search? '))
+
+ for x in lst:
+     if n==x:
+         print('found')
+     else:
+         print('not found')
+

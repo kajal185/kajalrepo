@@ -1,0 +1,9 @@
+# using if...else, counting -ve nos
+lst = [1,-1,2,-2,3,0,5,6,-7]
+
+count=0
+for x in lts:
+    ifx<0: count+=1
+    else: pass
+print('No. of negative=', count') 
+

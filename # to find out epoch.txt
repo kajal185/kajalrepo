@@ -1,0 +1,4 @@
+# to find out epoch 
+import time
+ep = time.time()
+print(ep)
